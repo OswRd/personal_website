@@ -1,0 +1,41 @@
+h1,h2{
+    text-align: center;
+}
+
+body{
+    background-color: #121212;
+    color: aliceblue;
+    font-family: Arial;
+}
+
+img{
+    display: block;
+    margin: auto;
+    padding: 50px 20px 0 20px;
+  
+}
+
+p{
+  text-align: justify;
+}
+
+h3{
+  background-color: #1d1d1d;
+  margin: 50px 50px 10px 50px;
+  padding: 20px 40px 20px 40px;
+  border-radius: 10px;
+}
+
+div.sobre_mi{ 
+  margin: 0 50px 50px 50px;
+  background-color: #1d1d1d;
+  padding: 20px 40px 20px 40px;
+  border-radius: 10px;
+}
+
+div.presentacion{
+  margin: 50px 50px 25px 50px;
+  background-color: #1d1d1d;
+  padding: 10px;
+  border-radius: 10px;
+}
